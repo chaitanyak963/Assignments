@@ -10,6 +10,8 @@
 * Add buttons to change the number of coffees ordered.
 * Calculate and display the total price.
 
+## Normal
+
 #### Assignment 3
 * Create an app which consists of google android workshop Registration form in the launcher screen. The registration form must contain the following fields.
   * NAME OF THE STUDENT (EditText, The string “Enter your name” must be displayed as a hint to the user)
@@ -23,3 +25,7 @@
   * Submit Button (This button must take you to the next activity with all the selections and inputs given above).
   * In the details activity which opens as soon as a button is clicked, show all the details got from the first screen and display them in a scrollable text view (Style: LargeText).
 
+## Hard
+
+#### Assignment 4
+* Create a calculator app to perform all type of arthimatical operations on it.
