@@ -1,7 +1,7 @@
 #### Assignment 1
 * Create a new Android Application to capture the following data from the user and to store it using sharedpreferences.
-  * Create 5 EditTexts for name,rollnumber,email,phone number and password (hint : use Inputype ).
-  * Create 2 Spinners to select branch and year (hint : use String Array ).
+  * Create 5 EditTexts for name,rollnumber,email,phone number and password (hint : use inputType ).
+  * Create 2 Spinners to select branch and year (hint : use string-array ).
   * Create Radio Buttons for gender.
   * Create CheckBoxes to select languages(Add any 3 languages).
   * Create an Image Button to save the data
