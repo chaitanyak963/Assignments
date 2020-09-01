@@ -10,9 +10,14 @@
 * Add buttons to change the number of coffees ordered.
 * Calculate and display the total price.
 
+#### Assignment 3
+* Create an app to work with Android Fragments.
+* Add 5 different fragments and add tabs to navigate between them.
+* Also change the background color.
+
 ## Normal
 
-#### Assignment 3
+#### Assignment 1
 * Create an app which consists of google android workshop Registration form in the launcher screen. The registration form must contain the following fields.
   * NAME OF THE STUDENT (EditText, The string “Enter your name” must be displayed as a hint to the user)
   * NAME OF THE COLLEGE (EditText, The string “Enter your College name” must be displayed as a hint to the user )
@@ -27,5 +32,5 @@
 
 ## Hard
 
-#### Assignment 4
+#### Assignment 1
 * Create a calculator app to perform all type of arthimatical operations on it.
